@@ -1,5 +1,4 @@
-// filepath: /c:/public/postcss.config.js
-export default {
+module.exports = {
   plugins: {
     tailwindcss: {},
     autoprefixer: {},
